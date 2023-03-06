@@ -1,7 +1,3 @@
-
-
-
-
 //this class is the blueprint for a book object.
 public class Book {
 
